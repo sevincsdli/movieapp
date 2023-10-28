@@ -1,5 +1,5 @@
 <template>
-  <div class="content w-ful min-h-full ">
+  <div class="content w-ful min-h-screen ">
   
     <header class="flex justify-between items-center md:p-8 p-4">
   

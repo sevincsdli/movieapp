@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-900 text-white w-full min-h-full">
+  <div class="bg-gray-900 text-white w-full min-h-screen">
 
 <PopularMovies></PopularMovies>
 </div>

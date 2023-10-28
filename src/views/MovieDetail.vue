@@ -1,5 +1,5 @@
 <template>
-  <section id="details" class="lg:scale-95  md:scale-90  sm:scale-[0.85] scale-[0.7] xs:scale-[0.55] vlg:transform w-full min-h-full flex flex-col justify-center items-center gap-4 ">
+  <section id="details" class="lg:scale-95  md:scale-90  sm:scale-[0.85] scale-[0.7] xs:scale-[0.55] vlg:transform w-full min-h-screen flex flex-col justify-center items-center gap-4 ">
     <div v-if="movie" class=" w-[30rem] h-auto">
     <h1 class="text-lime-600 font-semibold tracking-widest text-3xl text-center my-6">{{ movie.title }}</h1>
 
